@@ -83,6 +83,7 @@ export const TESTIMONIALS: Testimonial[] = [
     businessName: `Stanley's Corner, 82nd Bar and Grill, Ace Tavern 2`,
     location: 'Gladstone, OR',
     owner: '88 Badillo Inc.',
+    role: 'Owner',
     body: `I've partnered with NW Entertainment & Music for the past 15 years across multiple of my locations. The quality of service is what has kept the relationship intact. Very reliable, equipment always kept up to date with maintenance and professional service. For any business managing multiple venues, NW Entertainment & Music offers a rare combination of reliability, adaptability, and genuine professionalism. Fifteen years in, I still don't hesitate to recommend them.`,
     images: [
       { src: stanley_2, alt: `Pool tables installed at Stanley's Corner` },
@@ -95,6 +96,7 @@ export const TESTIMONIALS: Testimonial[] = [
     businessName: `Foster Gardens Tavern`,
     location: 'Portland, OR',
     owner: 'Mark Wittmeyer',
+    role: 'Owner',
     body: `I happily recommend Blake with NW Entertainment & Music. Over the last 13 years he has proven to be responsive, professional, reliable, and gives 100%. Thank you for providing valuable service.`,
     images: [
       { src: fosters_1, alt: `Inside of Foster Gardens Tavern` },
